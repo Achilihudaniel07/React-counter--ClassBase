@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-    background-image:url(./bg.jpg) ;
+    background-image:url(../bg.jpg) ;
     background-size: cover;
     max-width: 100%;
     width: 350px;
